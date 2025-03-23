@@ -3,13 +3,13 @@ Documentation on how to use RB3 custom tools and what songs to try and make
 
 # Contents
  - [Error and how to fix](#error-and-how-to-fix) 
- -- [Error 1 missing vocal note and invisible lyric](##error-1-missing-vocal-note-and-invisible-lyric)
- -- [Error 2 no vocal phrases found](##error-2-no-vocal-phrases-found)
- -- [Error 2.1 extends beyond phrase](##error-2.1-extends-beyond-phrase)
- -- [Error 2.2 outside any phrases](##error-2.2-outside-any-phrases)
- -- [Error 3 event after the end event](##error-3-event-after-the-end-event)
- -- [Error 4 Missing lyrics at](##error-4-Missing-lyrics-at)
- -- [Error 5 Cannot parse event](##error-5-Cannot-parse-event) 
+   - [Error 1 missing vocal note and invisible lyric](##error-1-missing-vocal-note-and-invisible-lyric)
+   - [Error 2 no vocal phrases found](##error-2-no-vocal-phrases-found)
+   - [Error 2.1 extends beyond phrase](##error-2.1-extends-beyond-phrase)
+   - [Error 2.2 outside any phrases](##error-2.2-outside-any-phrases)
+   - [Error 3 event after the end event](##error-3-event-after-the-end-event)
+   - [Error 4 Missing lyrics at](##error-4-Missing-lyrics-at)
+   - [Error 5 Cannot parse event](##error-5-Cannot-parse-event) 
 
 ## Error and how to fix
 
