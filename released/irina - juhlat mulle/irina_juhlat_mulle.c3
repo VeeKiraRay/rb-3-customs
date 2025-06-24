@@ -1,0 +1,60 @@
+﻿//Created by Magma: C3 Roks Edition v3.3.5
+//DO NOT EDIT MANUALLY
+Song=Juhlat mulle
+Artist=Irina
+Album=Juhlat mulle
+CustomID=
+Version=7
+IsMaster=True
+EncodingQuality=7
+CrowdAudio=C:\Users\wejaa\Desktop\Rock Band Custom authoring\MagmaC3v335\audio\blank_backing44_24.wav
+CrowdVol=-5
+2xBass=False
+RhythmKeys=False
+RhythmBass=False
+Karaoke=False
+Multitrack=False
+Convert=False
+ExpertOnly=False
+DisableProKeys=False
+TuningCents=0
+SongRating=1
+DrumKitSFX=0
+HopoTresholdIndex=2
+MuteVol=-96
+VocalMuteVol=-12
+SoloDrums=False
+SoloGuitar=False
+SoloBass=False
+SoloKeys=False
+SoloVocals=False
+SongPreview=28000
+CheckTempoMap=True
+WiiMode=False
+DoDrumMixEvents=False
+PackageDisplay=Irina - Juhlat mulle
+PackageDescription=Created with Magma: C3 Roks Edition. For more great customs authoring tools, visit forums.customscreators.com
+SongAlbumArt=C:\Users\wejaa\__CustomOwnSongs\Juhlatmulle\juhlatmulle_covert.jpg
+PackageThumb=
+EncodeANSI=False
+EncodeUTF8=True
+UseNumericID=True
+UniqueNumericID=1815600013
+UniqueNumericID2X=
+
+TO DO List Begin
+ToDo1=Verify the accuracy of all metadata,False,False
+ToDo2=Grab official *.png_xbox art file if applicable,False,False
+ToDo3=Chart reductions in all instruments,False,False
+ToDo4=Add drum fills,False,False
+ToDo5=Add overdrive for all instruments,False,False
+ToDo6=Add overdrive for vocals,False,False
+ToDo7=Create practice sessions [EVENTS],False,False
+ToDo8=Draw sing-along notes in VENUE,False,False
+ToDo9=Record dry vocals for lipsync,False,False
+ToDo10=Render audio with RB limiter and count-in,False,False
+ToDo12=Click to add new item...,False,False
+ToDo13=Click to add new item...,False,False
+ToDo14=Click to add new item...,False,False
+ToDo15=Click to add new item...,False,False
+TO DO List End
