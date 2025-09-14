@@ -1,0 +1,35 @@
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.mid
+*.mogg
+*.mp3.sfk
+*.mpd
+
+# Image files
+*.jpg
+*.jpeg
+*.png_xbox
+*.bmp
+*.png
+*.milo_xbox
+
+# Folders
+/wip
+/_audio
+*.zip
+
+# Magma files
+*.rok
+*.rpp-bak
+*_rb3con
+*Header_Details.txt
+*Header*.txt
+*.dta
+*.c3
+*.rba
+
+# Other
+*.rbdeps
+*.csv
