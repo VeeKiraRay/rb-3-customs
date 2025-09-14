@@ -20,7 +20,7 @@
       ('year_released' 2025)
       (
          'album_name'
-         "Ich komme"
+         "Eurovision Song Contest 2025"
       )
       (
          'author'
@@ -32,7 +32,7 @@
       )
       ('country' 'ugc_country_us')
       ('price' 80)
-      ('track_number' 1)
+      ('track_number' 11)
       ('has_album' 1)
    )
    (
@@ -69,7 +69,7 @@
       'midi'
       (
          'file'
-         "C:\\Users\\wejaa\\__CustomOwnSongs\\erika-komme\\erika_ichkomme.mid"
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\erika wikman - ich komme\\erika_wikman_ich_komme.mid"
       )
       (
          'autogen_theme'
@@ -82,7 +82,7 @@
          'part0'
          (
             'file'
-            "C:\\Users\\wejaa\\__CustomOwnSongs\\erika-komme\\18-DRYVOX1-consolidated-250511_1233.wav"
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\erika wikman - ich komme\\18-DRYVOX1-consolidated-250511_1233.wav"
          )
          ('enabled' 1)
       )
