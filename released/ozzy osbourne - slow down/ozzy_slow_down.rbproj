@@ -1,0 +1,206 @@
+(
+   'project'
+   (
+      'tool_version'
+      "110411_A"
+   )
+   ('project_version' 24)
+   (
+      'metadata'
+      (
+         'song_name'
+         "Slow Down"
+      )
+      (
+         'artist_name'
+         "Ozzy Osbourne"
+      )
+      ('genre' 'metal')
+      ('sub_genre' 'subgenre_metal')
+      ('year_released' 1983)
+      (
+         'album_name'
+         "Bark at the Moon"
+      )
+      (
+         'author'
+         "VeeKiraRay"
+      )
+      (
+         'release_label'
+         ""
+      )
+      ('country' 'ugc_country_us')
+      ('price' 80)
+      ('track_number' 7)
+      ('has_album' 1)
+   )
+   (
+      'gamedata'
+      ('preview_start_ms' 27000)
+      ('rank_guitar' 5)
+      ('rank_bass' 4)
+      ('rank_drum' 4)
+      ('rank_vocals' 3)
+      ('rank_keys' 5)
+      ('rank_pro_keys' 1)
+      ('rank_band' 4)
+      ('vocal_scroll_speed' 2300)
+      ('anim_tempo' 48)
+      ('vocal_gender' 'male')
+      ('vocal_percussion' 'tambourine')
+      ('vocal_parts' 3)
+      ('guide_pitch_volume' -3.00)
+   )
+   (
+      'languages'
+      ('english' 1)
+      ('french' 0)
+      ('italian' 0)
+      ('spanish' 0)
+      ('german' 0)
+      ('japanese' 0)
+   )
+   (
+      'destination_file'
+      "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\ozzy_slow_down_v#_rb3con.rba"
+   )
+   (
+      'midi'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\ozzy_slow_down.mid"
+      )
+      (
+         'autogen_theme'
+         "ArenaRock.rbtheme"
+      )
+   )
+   (
+      'dry_vox'
+      (
+         'part0'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\12-DRYVOX1-consolidated-250802_1027.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part1'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\12-DRYVOX1-consolidated-250802_1027.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part2'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\12-DRYVOX1-consolidated-250802_1027.wav"
+         )
+         ('enabled' 1)
+      )
+      ('tuning_offset_cents' 0.00)
+   )
+   (
+      'album_art'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\cover_x256.bmp"
+      )
+   )
+   (
+      'tracks'
+      ('drum_layout' 'drum_layout_kit')
+      (
+         'drum_kit'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\Desktop\\Rock Band Custom authoring\\MagmaC3v335\\audio\\stereo44_24.wav"
+         )
+      )
+      (
+         'drum_kick'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'drum_snare'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'bass'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\Desktop\\Rock Band Custom authoring\\MagmaC3v335\\audio\\stereo44_24.wav"
+         )
+      )
+      (
+         'guitar'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\Desktop\\Rock Band Custom authoring\\MagmaC3v335\\audio\\stereo44_24.wav"
+         )
+      )
+      (
+         'vocals'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\Desktop\\Rock Band Custom authoring\\MagmaC3v335\\audio\\stereo44_24.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\Desktop\\Rock Band Custom authoring\\MagmaC3v335\\audio\\stereo44_24.wav"
+         )
+      )
+      (
+         'backing'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\ozzy osbourne - slow down\\01-SONG AUDIO-consolidated-250729_2045.wav"
+         )
+      )
+   )
+)
