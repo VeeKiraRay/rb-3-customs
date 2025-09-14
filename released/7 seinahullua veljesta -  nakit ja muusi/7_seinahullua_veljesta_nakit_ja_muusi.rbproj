@@ -37,7 +37,7 @@
    )
    (
       'gamedata'
-      ('preview_start_ms' 25000)
+      ('preview_start_ms' 34000)
       ('rank_guitar' 3)
       ('rank_bass' 2)
       ('rank_drum' 2)
@@ -63,13 +63,13 @@
    )
    (
       'destination_file'
-      "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\ssv_nakitjamuusi_rb3con.rba"
+      "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\ssv_nakitjamuus_v#_rb3con.rba"
    )
    (
       'midi'
       (
          'file'
-         "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\nakitjamuusi3.mid"
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\7_seinahullua_veljesta_nakit_ja_muusi.mid"
       )
       (
          'autogen_theme'
@@ -82,7 +82,7 @@
          'part0'
          (
             'file'
-            "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\13-DRYVOX1-consolidated-250419_1253.wav"
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\dryvox_1_260626.wav"
          )
          ('enabled' 1)
       )
@@ -90,7 +90,7 @@
          'part1'
          (
             'file'
-            "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\13-DRYVOX1-consolidated-250419_1253.wav"
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\dryvox_2_250626.wav"
          )
          ('enabled' 1)
       )
@@ -98,7 +98,7 @@
          'part2'
          (
             'file'
-            "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\13-DRYVOX1-consolidated-250419_1253.wav"
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\dryvox_3_250626.wav"
          )
          ('enabled' 1)
       )
@@ -108,7 +108,7 @@
       'album_art'
       (
          'file'
-         "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\20_suosikkia_-_banaania_poskeen_x256.bmp"
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\20_suosikkia_-_banaania_poskeen_x256.bmp"
       )
    )
    (
@@ -199,7 +199,7 @@
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\wejaa\\__CustomOwnSongs\\nakitjamuusi\\01-SONG AUDIO-consolidated-250409_1905.wav"
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\released\\7 seinahullua veljesta -  nakit ja muusi\\song_audio_ssv_nakit_ja_muusi.wav"
          )
       )
    )
