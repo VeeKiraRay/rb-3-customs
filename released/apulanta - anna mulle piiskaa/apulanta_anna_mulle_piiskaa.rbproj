@@ -1,0 +1,206 @@
+(
+   'project'
+   (
+      'tool_version'
+      "110411_A"
+   )
+   ('project_version' 24)
+   (
+      'metadata'
+      (
+         'song_name'
+         "Anna mulle piiskaa"
+      )
+      (
+         'artist_name'
+         "Apulanta"
+      )
+      ('genre' 'punk')
+      ('sub_genre' 'subgenre_alternative')
+      ('year_released' 1997)
+      (
+         'album_name'
+         "Kolme"
+      )
+      (
+         'author'
+         "VeeKiraRay"
+      )
+      (
+         'release_label'
+         ""
+      )
+      ('country' 'ugc_country_us')
+      ('price' 80)
+      ('track_number' 11)
+      ('has_album' 1)
+   )
+   (
+      'gamedata'
+      ('preview_start_ms' 62000)
+      ('rank_guitar' 3)
+      ('rank_bass' 2)
+      ('rank_drum' 4)
+      ('rank_vocals' 3)
+      ('rank_keys' 1)
+      ('rank_pro_keys' 1)
+      ('rank_band' 3)
+      ('vocal_scroll_speed' 2300)
+      ('anim_tempo' 32)
+      ('vocal_gender' 'male')
+      ('vocal_percussion' 'tambourine')
+      ('vocal_parts' 3)
+      ('guide_pitch_volume' -3.00)
+   )
+   (
+      'languages'
+      ('english' 0)
+      ('french' 0)
+      ('italian' 0)
+      ('spanish' 1)
+      ('german' 0)
+      ('japanese' 0)
+   )
+   (
+      'destination_file'
+      "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\apulanta_piiskaa_v#_rb3con.rba"
+   )
+   (
+      'midi'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\apulanta_anna_mulle_piiskaa.mid"
+      )
+      (
+         'autogen_theme'
+         "GaragePunkRock.rbtheme"
+      )
+   )
+   (
+      'dry_vox'
+      (
+         'part0'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\11-DRYVOX2-consolidated-250817_1759.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part1'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\11-DRYVOX2-consolidated-250817_1759.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part2'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\11-DRYVOX2-consolidated-250817_1759.wav"
+         )
+         ('enabled' 1)
+      )
+      ('tuning_offset_cents' 0.00)
+   )
+   (
+      'album_art'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\cover_x256.bmp"
+      )
+   )
+   (
+      'tracks'
+      ('drum_layout' 'drum_layout_kit')
+      (
+         'drum_kit'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'drum_kick'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'drum_snare'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'bass'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'guitar'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'vocals'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'backing'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\apulanta - anna mulle piiskaa\\01-SONG AUDIO-consolidated-250814_2213.wav"
+         )
+      )
+   )
+)
