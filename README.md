@@ -90,3 +90,11 @@ There is an event marker on the track that the game doesn't know how to interpre
 
 #### Fix
 Check the marked timestamp. If there isn't anything weird on "Text Events" try and change to other types. For example "Program" event might be the culprit.
+
+### Error 5 Notes disappear
+
+#### Reason
+While scrolling MiDI editor `Channel` was changed from `All` or `1` to any other value which hid the notes
+
+#### Fix
+Remember to always check the editing `Channel`
