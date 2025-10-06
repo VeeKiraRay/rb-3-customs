@@ -1,0 +1,206 @@
+(
+   'project'
+   (
+      'tool_version'
+      "110411_A"
+   )
+   ('project_version' 24)
+   (
+      'metadata'
+      (
+         'song_name'
+         "Am I Dreaming"
+      )
+      (
+         'artist_name'
+         "Metro Boomin, A$AP Rocky and Roisee"
+      )
+      ('genre' 'hiphoprap')
+      ('sub_genre' 'subgenre_alternativerap')
+      ('year_released' 2023)
+      (
+         'album_name'
+         "Metro Boomin Presents Spider-Man: Across the Spider-Verse"
+      )
+      (
+         'author'
+         "VeeKiraRay"
+      )
+      (
+         'release_label'
+         ""
+      )
+      ('country' 'ugc_country_us')
+      ('price' 80)
+      ('track_number' 2)
+      ('has_album' 1)
+   )
+   (
+      'gamedata'
+      ('preview_start_ms' 22000)
+      ('rank_guitar' 3)
+      ('rank_bass' 2)
+      ('rank_drum' 3)
+      ('rank_vocals' 4)
+      ('rank_keys' 3)
+      ('rank_pro_keys' 1)
+      ('rank_band' 3)
+      ('vocal_scroll_speed' 2300)
+      ('anim_tempo' 16)
+      ('vocal_gender' 'female')
+      ('vocal_percussion' 'tambourine')
+      ('vocal_parts' 3)
+      ('guide_pitch_volume' -3.00)
+   )
+   (
+      'languages'
+      ('english' 1)
+      ('french' 0)
+      ('italian' 0)
+      ('spanish' 0)
+      ('german' 0)
+      ('japanese' 0)
+   )
+   (
+      'destination_file'
+      "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\metro_am_i_dreaming_v#_rb3con.rba"
+   )
+   (
+      'midi'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\metro_am_i_dreaming.mid"
+      )
+      (
+         'autogen_theme'
+         "SynthPop.rbtheme"
+      )
+   )
+   (
+      'dry_vox'
+      (
+         'part0'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\14-DRYVOX1-consolidated-250928_1817.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part1'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\14-DRYVOX1-consolidated-250928_1817.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part2'
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\14-DRYVOX1-consolidated-250928_1817.wav"
+         )
+         ('enabled' 1)
+      )
+      ('tuning_offset_cents' 0.00)
+   )
+   (
+      'album_art'
+      (
+         'file'
+         "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\cover_x256.bmp"
+      )
+   )
+   (
+      'tracks'
+      ('drum_layout' 'drum_layout_kit')
+      (
+         'drum_kit'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'drum_kick'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'drum_snare'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'bass'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'guitar'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'vocals'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\magma\\stereo44_24.wav"
+         )
+      )
+      (
+         'backing'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\wejaa\\__CustomOwnSongs\\rb-3-customs\\wip\\Metro Boomin - Am I Dreaming\\01-SONG AUDIO-consolidated-250918_1956.wav"
+         )
+      )
+   )
+)
